@@ -1,0 +1,8 @@
+{
+  "name": "iomic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "bbd1ccda"
+}
